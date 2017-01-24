@@ -8,7 +8,7 @@ public class Main
 
 		Scanner input = new Scanner(System.in);
 
-		System.out.print("Enter a number: ");
+		System.out.print("Enter a number: 8");
 		double number1 = input.nextDouble();
 
 		System.out.print("Enter second number: ");
